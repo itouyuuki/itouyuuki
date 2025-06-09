@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 初見さんこんにちは！
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF88&background=000000&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Full+Stack+Engineer;Code+Enthusiast" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ 言語
 
 <div align="center">
   <table>
