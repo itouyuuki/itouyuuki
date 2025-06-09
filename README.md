@@ -1,7 +1,7 @@
 # 👋 初見さんこんにちは！
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF88&background=000000&center=true&vCenter=true&width=600&height=100&lines=何を表示するか迷っています。;なにこれ;テスト文字列" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF88&background=000000&center=true&vCenter=true&width=600&height=100&lines=何を表示させるか迷っています。;好きな食べ物はラーメン;あ、お寿司も好きです。" alt="Typing SVG" />
 </div>
 
 ---
