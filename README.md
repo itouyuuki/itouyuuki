@@ -1,102 +1,83 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+# 👋 Hello, I'm [Your Name]
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF88&background=000000&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Full+Stack+Engineer;Code+Enthusiast" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+User+%F0%9F%91%8B;Flutter+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
-</div>
-
-## 🌟 **About Me**
-
-<div align="center">
-
-<table>
-<tr>
-<td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
-<br><strong>Flutter</strong>
-</td>
-<td width="400" align="left">
-
-### 👋 **Hi, I'm User!**
-🚀 **Flutter Developer** passionate about mobile development  
-
-🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
-
-</td>
-</tr>
-</table>
-
-</div>
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-</div>
+---
 
 ## 🛠️ **Tech Stack**
 
-<table align="center">
-<tr>
-<td width="50%" align="center" valign="top">
-
-### 📱  **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-
-### ☁️  **Backend as a Service (BaaS)**
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
-
-### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
-
-### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
-
-### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
-
-</td>
-</tr>
-</table>
-
-## 🏆 **GitHub Trophies (Commits)**
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=html" width="80" height="80" alt="HTML5"/>
+        <br><strong style="color: #E34F26; font-size: 20px;">HTML5</strong>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=css" width="80" height="80" alt="CSS3"/>
+        <br><strong style="color: #1572B6; font-size: 20px;">CSS3</strong>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=js" width="80" height="80" alt="JavaScript"/>
+        <br><strong style="color: #F7DF1E; font-size: 20px;">JavaScript</strong>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=php" width="80" height="80" alt="PHP"/>
+        <br><strong style="color: #777BB4; font-size: 20px;">PHP</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
-## 💭 **Random Dev Quote**
+---
+
+## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88&border_color=30363d" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff88&text_color=ffffff&border_color=30363d" alt="Top Languages" height="180"/>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
-</div>
+---
+
+## 🔥 **Streak Stats**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&background=0d1117&stroke=30363d&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🎯 **Current Focus**
+
+```javascript
+const currentFocus = {
+  learning: ["Modern JavaScript", "Advanced PHP", "Web Performance"],
+  building: ["Responsive Web Applications", "Dynamic User Interfaces"],
+  exploring: ["New CSS Features", "API Integration", "Database Optimization"]
+};
+```
+
+---
+
+## 📫 **Connect with Me**
+
+<div align="center">
   
-  **⭐ From [user](https://github.com/user) with ❤️**
-  
-  *"Flutter makes everything beautiful! 🦋"*
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/YOUR_USERNAME)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/YOUR_USERNAME)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff88&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <i>💻 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
 </div>
